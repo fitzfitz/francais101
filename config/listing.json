@@ -1,0 +1,132 @@
+{
+  "css": [
+    {
+      "title"       : "Style Custom",
+      "name"        : "style.css"
+    },
+    {
+      "title"       : "Fonts",
+      "name"        : "fonts.css"
+    },
+    {
+      "title"       : "Font Awesome",
+      "name"        : "font-awesome.css"
+    },
+    {
+      "title"       : "Font Awesome Min",
+      "name"        : "font-awesome.min.css"
+    }
+  ],
+  
+  "javascript": [
+    {
+      "title"       : "jQuery Min",
+      "name"        : "jquery.min.js"
+    },
+    {
+      "title"       : "touchSwipe jQuery Plugin",
+      "name"        : "jquery.touchSwipe.js"
+    },
+    {
+      "title"       : "touchSwipe Min jQuery Plugin",
+      "name"        : "jquery.touchSwipe.min.js"
+    },
+    {
+      "title"       : "Script Custom",
+      "name"        : "script.js"
+    },
+    {
+      "title"       : "Responsive Voice",
+      "name"        : "responsivevoice.js"
+    },
+    {
+      "title"       : "Accordion",
+      "name"        : "accordion.js"
+    }
+  ],
+  
+  "home-content-top": [
+    {
+      "title"       : "Basic French 1",
+      "picture"     : "icon_phrase.png",
+      "background"  : "#1D8ACF",
+      "desc"        : "Learn French Basic 1 Here",
+      "link"        : "javascript:void(0);"
+    },
+    {
+      "title"       : "Basic French 2",
+      "picture"     : "icon_phrase.png",
+      "background"  : "#DA424B",
+      "desc"        : "You Will Learn Basic French #2 Here",
+      "link"        : "javascript:void(0);"
+    },
+    {
+      "title"       : "Phrases",
+      "picture"     : "icon_phrase.png",
+      "background"  : "#E1A729",
+      "desc"        : "French Daily Phrases",
+      "link"        : "javascript:void(0);"
+    },
+    {
+      "title"       : "Expression",
+      "picture"     : "icon_phrase.png",
+      "background"  : "#E6454D",
+      "desc"        : "",
+      "link"        : "javascript:void(0);"
+    },
+    {
+      "title"       : "Lesson 5",
+      "picture"     : "icon_phrase.png",
+      "background"  : "#05958C",
+      "desc"        : "",
+      "link"        : "javascript:void(0);"
+    },
+    {
+      "title"       : "Lesson 6",
+      "picture"     : "icon_phrase.png",
+      "background"  : "#9C4AD3",
+      "desc"        : "",
+      "link"        : "javascript:void(0);"
+    },
+    {
+      "title"       : "Lesson 7",
+      "picture"     : "icon_phrase.png",
+      "background"  : "#0CA0BC",
+      "desc"        : "",
+      "link"        : "javascript:void(0);"
+    },
+    {
+      "title"       : "Lesson 8",
+      "picture"     : "icon_phrase.png",
+      "background"  : "#5C3DBF",
+      "desc"        : "",
+      "link"        : "javascript:void(0);"
+    },
+    {
+      "title"       : "Lesson 9",
+      "picture"     : "icon_phrase.png",
+      "background"  : "#26A562",
+      "desc"        : "",
+      "link"        : "javascript:void(0);"
+    }
+  ],
+  
+  "rightMenu": [
+    {
+      "title"       : "About",
+      "fontawesome" : "fa-user",
+      "link"        : "inc/about.php",
+      "link-action" : "href",
+      "class"       : "rightMenu-about",
+      "custom-color" : "#DB3282"
+    },
+    {
+      "title"       : "Feedback",
+      "fontawesome" : "fa-comment-o",
+      "link"        : "mailto:fitzgeralmedia@gmail.com?subject=Français101_Feedback",
+      "link-action" : "href",
+      "class"       : "rightMenu-feedback",
+      "custom-color" : "#AADE9C"
+    }
+  ]
+}
